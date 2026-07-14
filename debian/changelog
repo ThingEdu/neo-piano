@@ -1,6 +1,6 @@
 neo-piano (0.3.0) unstable; urgency=medium
 
-  * Raise the default piano gain to full volume.
+  * Raise the default piano gain to 1.5 for stronger speaker output.
 
  -- Maker Viet <everwellmax@gmail.com>  Tue, 14 Jul 2026 00:00:00 +0700
 
